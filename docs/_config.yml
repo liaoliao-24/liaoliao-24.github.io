@@ -20,12 +20,12 @@
 
 title: Lihao Yan's Personal Website
 email: liao24y@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-Lihao's
+description: > # this means to ignore newlines until "baseurl:"
+  Lihao's treasure cave
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  liao24
+twitter_username: shidaihaojie
+github_username:  liaoliao-24
 
 # Build settings
 theme: minima
