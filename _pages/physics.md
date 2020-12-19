@@ -1,7 +1,7 @@
 ---
 title: "Physics"
 layout: single
-toc: true
+#toc: true
 permalink: /physics/
 author_profile: true
 ---

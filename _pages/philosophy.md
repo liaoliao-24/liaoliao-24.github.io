@@ -1,7 +1,7 @@
 ---
 title: "Philosophy"
 layout: single
-toc: true
+#toc: true
 permalink: /philosophy/
 author_profile: true
 ---

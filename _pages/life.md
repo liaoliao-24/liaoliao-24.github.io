@@ -2,7 +2,7 @@
 title: "Life"
 #layout: categories
 layout: category
-toc: true
+#toc: true
 permalink: /life/
 author_profile: true
 taxonomy: life
