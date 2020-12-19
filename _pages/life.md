@@ -8,8 +8,8 @@ author_profile: true
 taxonomy: life
 entries_layout: grid
 gallery:
-  - url: /assets/images/blake-bio.jpg
-    image_path: /assets/images/blake-bio.jpg
+  - url: /assets/images/pets/BlakebehindPillars.jpg
+    image_path: /assets/images/pets/BlakebehindPillars.jpg
     alt: "小黑(Blake)"
     title: "小黑(Blake)"
   - url: /assets/images/profOzpin.jpg
