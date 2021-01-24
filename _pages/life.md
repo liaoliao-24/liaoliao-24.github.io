@@ -12,10 +12,10 @@ gallery:
     image_path: /assets/images/pets/BlakebehindPillars.jpg
     alt: "小黑(Blake)"
     title: "小黑(Blake)"
-  - url: /assets/images/profOzpin.jpg
-    image_path: /assets/images/profOzpin.jpg
-    alt: "Prof. Ozpin from RWBY"
-    title: "Prof. Ozpin"
+  # - url: /assets/images/profOzpin.jpg
+  #   image_path: /assets/images/profOzpin.jpg
+  #   alt: "Prof. Ozpin from RWBY"
+  #   title: "Prof. Ozpin"
   - url: /assets/images/SunriseCancun.jpg
     image_path: /assets/images/SunriseCancun.jpg
     alt: "Sunrise in Cancún, Fall 2018"
