@@ -1,6 +1,6 @@
 ---
 title: "Philosophy"
-layout: single
+layout: category
 #toc: true
 permalink: /philosophy/
 author_profile: true

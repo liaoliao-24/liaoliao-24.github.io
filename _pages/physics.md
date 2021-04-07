@@ -1,6 +1,6 @@
 ---
 title: "Physics"
-layout: single
+layout: category
 #toc: true
 permalink: /physics/
 author_profile: true
