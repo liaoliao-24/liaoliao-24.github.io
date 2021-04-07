@@ -4,7 +4,7 @@ categories:
   - physics
 tags:
   - physics
-  - senior_thesis
+  - senior thesis
 header:
   teaser: /assets/images/physics/phaseTypeI&II.png
 ---
