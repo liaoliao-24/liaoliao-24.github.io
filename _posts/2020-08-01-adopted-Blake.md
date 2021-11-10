@@ -4,7 +4,6 @@ categories:
   - life
 tags:
   - pets
-  - cats
 header:
   teaser: /assets/images/blake-bio.jpg
 ---
