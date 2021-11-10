@@ -1,9 +1,8 @@
 ---
 title: "Senior Thesis"
 categories:
-  - physics
+  - life
 tags:
-  - physics
   - yale
 header:
   teaser: /assets/images/physics/1st_pic_at_yale.jpg
