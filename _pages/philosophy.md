@@ -5,6 +5,6 @@ layout: single
 permalink: /philosophy/
 author_profile: true
 ---
-Philosophy(φιλοσοφία) is the love of wisdom, but the point is to change the world.  
+Philosophy(φιλοσοφία) is the love of wisdom. However, we should always remember that the point is to change the world.
 
 ![thesisOnFeuerbach](../assets/images/thesisOnFeuerbach.jpg)
