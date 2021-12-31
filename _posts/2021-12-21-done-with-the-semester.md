@@ -1,13 +1,16 @@
 ---
-title: "Summoning Xiaohei"
+title: "Finished My First Semester"
 categories:
   - life
 tags:
+# Available Tags: friends, pets, yale, ski, physics, philosophy
+  - physics
   - yale
-# header:
-#   teaser: /assets/images/pets/cat-with-candle.jpg
+header:
+  teaser: /assets/images/life/night_sky_at_yale.jpg
 ---
 
-Done with the first semester at Yale!
+Just finished my first semester at Yale. I took four physics courses,
+which is a lot! However, I did learn a lot physics this semester and I enjoyed my courses.
 
-<!-- ![candle-cat](/assets/images/pets/cat-with-candle.jpg) -->
+![night sky at yale](/assets/images/pets/life/night_sky_at_yale.jpg)
