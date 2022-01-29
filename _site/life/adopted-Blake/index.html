@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.22.0 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
   Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
 <!-- begin _includes/seo.html --><title>My Cat - Lihao’s Personal Website</title>
-<meta name="description" content="Take a look at my lovely cat Blake (小黑) I have adopted recently!">
+<meta name="description" content="Take a look at my lovely cat Xiaohei (小黑) I have adopted recently!">
 
 
   <meta name="author" content="Lihao Yan">
@@ -26,7 +26,7 @@
 <meta property="og:url" content="http://localhost:4000/life/adopted-Blake/">
 
 
-  <meta property="og:description" content="Take a look at my lovely cat Blake (小黑) I have adopted recently!">
+  <meta property="og:description" content="Take a look at my lovely cat Xiaohei (小黑) I have adopted recently!">
 
 
 
@@ -68,6 +68,7 @@
 
 
 
+
 <!-- end _includes/seo.html -->
 
 
@@ -84,22 +85,9 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
 
 
     <!-- start custom head snippets -->
@@ -112,7 +100,6 @@
 
   <body class="layout--single">
     <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
@@ -167,22 +154,22 @@
   
 
 
-<div itemscope itemtype="https://schema.org/Person">
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
 
   
     <div class="author__avatar">
-      
-        <img src="/assets/images/bio-photo2.jpg" alt="Lihao Yan" itemprop="image">
-      
+      <a href="http://localhost:4000/">
+        <img src="/assets/images/bio-photo2.jpg" alt="Lihao Yan" itemprop="image" class="u-photo">
+      </a>
     </div>
   
 
   <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Lihao Yan</a>
+    </h3>
     
-      <h3 class="author__name" itemprop="name">Lihao Yan</h3>
-    
-    
-      <div class="author__bio" itemprop="description">
+      <div class="author__bio p-note" itemprop="description">
         <p>天命之谓性，率性之谓道，修道之谓教。</p>
 
       </div>
@@ -194,7 +181,7 @@
     <ul class="author__urls social-icons">
       
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Beijing</span>
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Beijing</span>
         </li>
       
 
@@ -218,7 +205,7 @@
 
       
         <li>
-          <a href="mailto:liao24y@gmail.com">
+          <a href="mailto:liao24y@gmail.com" rel="me" class="u-email">
             <meta itemprop="email" content="liao24y@gmail.com" />
             <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
           </a>
@@ -271,7 +258,7 @@
 
       <!--
   <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
       <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
     </a>
   </li>
@@ -279,23 +266,24 @@
     </ul>
   </div>
 </div>
-
   
   </div>
 
 
 
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="My Cat">
-    <meta itemprop="description" content="Take a look at my lovely cat Blake (小黑) I have adopted recently!">
+    <meta itemprop="description" content="Take a look at my lovely cat Xiaohei (小黑) I have adopted recently!">
     <meta itemprop="datePublished" content="2020-08-01T00:00:00-04:00">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">My Cat
-</h1>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="http://localhost:4000/life/adopted-Blake/" class="u-url" itemprop="url">My Cat
+</a>
+          </h1>
           
 
   <p class="page__meta">
@@ -320,10 +308,10 @@
         </header>
       
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content e-content" itemprop="text">
         
-        <p>Take a look at my lovely cat Blake (小黑) I have adopted recently!
-<img src="/assets/images/blake-bio.jpg" alt="blak-bio" /></p>
+        <p>Take a look at my lovely cat Xiaohei (小黑) I have adopted recently!
+<img src="/assets/images/blake-bio.jpg" alt="blake-bio" /></p>
 
         
       </section>
@@ -340,9 +328,7 @@
     <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
     <span itemprop="keywords">
     
-      <a href="/tags/#cats" class="page__taxonomy-item" rel="tag">cats</a><span class="sep">, </span>
-    
-      <a href="/tags/#pets" class="page__taxonomy-item" rel="tag">pets</a>
+      <a href="/tags/#pets" class="page__taxonomy-item p-category" rel="tag">pets</a>
     
     </span>
   </p>
@@ -359,15 +345,15 @@
     <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
     <span itemprop="keywords">
     
-      <a href="/categories/#life" class="page__taxonomy-item" rel="tag">life</a>
+      <a href="/categories/#life" class="page__taxonomy-item p-category" rel="tag">life</a>
     
     </span>
   </p>
 
 
         
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2020-08-01T00:00:00-04:00">August 1, 2020</time></p>
 
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2020-08-01T00:00:00-04:00">August 1, 2020</time></p>
 
       </footer>
 
@@ -387,8 +373,7 @@
       
   <nav class="pagination">
     
-      <a href="/blog/welcome-to-jekyll/" class="pagination--pager" title="Welcome to Jekyll!
-">Previous</a>
+      <a href="#" class="pagination--pager disabled">Previous</a>
     
     
       <a href="/life/ski-trip/" class="pagination--pager" title="Breckenridge Ski Trip
@@ -404,7 +389,7 @@
   
   
     <div class="page__related">
-      <h4 class="page__related-title">You may also enjoy</h4>
+      <h2 class="page__related-title">You may also enjoy</h2>
       <div class="grid__wrapper">
         
           
@@ -415,12 +400,12 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
       <div class="archive__item-teaser">
-        <img src="/assets/images/physics/phaseTypeI&II.png" alt="">
+        <img src="/assets/images/physics/scaling_in_city.png" alt="">
       </div>
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="/physics/senior-thesis/" rel="permalink">Senior Thesis
+        <a href="/physics/intro-to-complexity/" rel="permalink">Introduction to Complexity
 </a>
       
     </h2>
@@ -445,9 +430,9 @@
   </p>
 
 
-    <p class="archive__item-excerpt" itemprop="description">Just submitted my senior thesis to the physics department at Notre Dame yesterday.
-A milestone for my undergraduate physics research.
-I worked on the anisotr...</p>
+    <p class="archive__item-excerpt" itemprop="description">I recently took the online course, Introduction to Complexity from the Santa Fe institute.
+Here are my study notes.
+</p>
   </article>
 </div>
 
@@ -460,12 +445,12 @@ I worked on the anisotr...</p>
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
       <div class="archive__item-teaser">
-        <img src="/assets/images/purdueU.jpg" alt="">
+        <img src="/assets/images/life/2022new-year.jpg" alt="">
       </div>
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="/life/west-lafayette/" rel="permalink">West Lafayette Trip
+        <a href="/life/happy-new-year/" rel="permalink">Happy 2022!!!
 </a>
       
     </h2>
@@ -490,7 +475,7 @@ I worked on the anisotr...</p>
   </p>
 
 
-    <p class="archive__item-excerpt" itemprop="description">Visited friends in West Lafayette. Took this beautiful picture of the Purdue University’s main gate.
+    <p class="archive__item-excerpt" itemprop="description">Happy 2022! Enjoy new year. 祝万事胜意。
 
 </p>
   </article>
@@ -505,12 +490,12 @@ I worked on the anisotr...</p>
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
       <div class="archive__item-teaser">
-        <img src="/assets/images/breckenridgeSki.jpg" alt="">
+        <img src="/assets/images/life/night_sky_at_yale.jpg" alt="">
       </div>
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="/life/ski-trip/" rel="permalink">Breckenridge Ski Trip
+        <a href="/life/done-with-the-semester/" rel="permalink">Finished My First Semester
 </a>
       
     </h2>
@@ -535,9 +520,8 @@ I worked on the anisotr...</p>
   </p>
 
 
-    <p class="archive__item-excerpt" itemprop="description">Went on a ski trip with some friends in Breckenridge ski resort, Colorado. Feeling high on the slopes!
-
-</p>
+    <p class="archive__item-excerpt" itemprop="description">Just finished my first semester at Yale. I took four physics courses,
+which is a lot! However, I did learn a lot physics this semester and I enjoyed my cours...</p>
   </article>
 </div>
 
@@ -550,12 +534,12 @@ I worked on the anisotr...</p>
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
       <div class="archive__item-teaser">
-        <img src="/assets/images/teaser_pic.jpg" alt="">
+        <img src="/assets/images/pets/cat-with-candle.jpg" alt="">
       </div>
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="/blog/welcome-to-jekyll/" rel="permalink">Welcome to Jekyll!
+        <a href="/life/xiaohei-with-candle/" rel="permalink">Summoning Xiaohei
 </a>
       
     </h2>
@@ -580,7 +564,9 @@ I worked on the anisotr...</p>
   </p>
 
 
-    <p class="archive__item-excerpt" itemprop="description">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...</p>
+    <p class="archive__item-excerpt" itemprop="description">Reading Peskin and summoning Xiaohei using my candle.
+
+</p>
   </article>
 </div>
 
@@ -590,7 +576,6 @@ I worked on the anisotr...</p>
   
   
 </div>
-
     </div>
 
     
@@ -628,7 +613,7 @@ I worked on the anisotr...</p>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2021 Lihao Yan. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2022 Lihao Yan. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>

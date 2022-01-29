@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.22.0 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
   Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Who Am I? - Lihao’s Personal Website - Page 2</title>
+<!-- begin _includes/seo.html --><title>Lihao's Personal Website - Page 2</title>
 <meta name="description" content="Lihao’s treasure cave.">
 
 
@@ -20,7 +20,7 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Lihao's Personal Website">
-<meta property="og:title" content="Who Am I?">
+<meta property="og:title" content="Lihao’s Personal Website">
 <meta property="og:url" content="http://localhost:4000/page2/">
 
 
@@ -47,8 +47,6 @@
   <link rel="prev" href="http://localhost:4000/">
 
 
-  <link rel="next" href="http://localhost:4000/page3/">
-
 
 <script type="application/ld+json">
   {
@@ -60,6 +58,7 @@
     
   }
 </script>
+
 
 
 
@@ -82,22 +81,9 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
 
 
     <!-- start custom head snippets -->
@@ -108,9 +94,8 @@
 
   </head>
 
-  <body class="layout--single">
+  <body class="layout--home">
     <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
@@ -165,22 +150,22 @@
   
 
 
-<div itemscope itemtype="https://schema.org/Person">
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
 
   
     <div class="author__avatar">
-      
-        <img src="/assets/images/bio-photo2.jpg" alt="Lihao Yan" itemprop="image">
-      
+      <a href="http://localhost:4000/">
+        <img src="/assets/images/bio-photo2.jpg" alt="Lihao Yan" itemprop="image" class="u-photo">
+      </a>
     </div>
   
 
   <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Lihao Yan</a>
+    </h3>
     
-      <h3 class="author__name" itemprop="name">Lihao Yan</h3>
-    
-    
-      <div class="author__bio" itemprop="description">
+      <div class="author__bio p-note" itemprop="description">
         <p>天命之谓性，率性之谓道，修道之谓教。</p>
 
       </div>
@@ -192,7 +177,7 @@
     <ul class="author__urls social-icons">
       
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Beijing</span>
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Beijing</span>
         </li>
       
 
@@ -216,7 +201,7 @@
 
       
         <li>
-          <a href="mailto:liao24y@gmail.com">
+          <a href="mailto:liao24y@gmail.com" rel="me" class="u-email">
             <meta itemprop="email" content="liao24y@gmail.com" />
             <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
           </a>
@@ -269,7 +254,7 @@
 
       <!--
   <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
       <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
     </a>
   </li>
@@ -277,58 +262,274 @@
     </ul>
   </div>
 </div>
-
   
   </div>
 
 
 
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Who Am I?">
+  <div class="archive">
+    
+      <h1 id="page-title" class="page__title"></h1>
     
     
+
+<h3 class="archive__subtitle">Recent posts</h3>
+
+
+
+
+<div class="entries-list">
+  
     
 
-    <div class="page__inner-wrap">
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Who Am I?
-</h1>
-          
-
-
-        </header>
+        <a href="/life/arrived-at-Yale/" rel="permalink">First Photo at Yale
+</a>
       
+    </h2>
+    
 
-      <section class="page__content" itemprop="text">
-        
-        I am an undergraduate student of Class 2021 at the University of Notre Dame. I am double majoring in physics and philosophy. In physics, I
-am interested in how a collection of particles interact with each other&mdash;the condensed matter systems. In philosophy,
-I am interested in how a collection of people interact with each other&mdash;moral and political philosophy. I like reading and thinking. I also like photography, play bridge, traveling, and gaming.
-        
-      </section>
-
-      <footer class="page__meta">
-        
-        
-
-
-        
-
-      </footer>
-
-      
-
-      
-    </div>
+  <p class="page__meta">
+    
 
     
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">This is one of the first photos I took at Yale. I walked around Yale’s campus and enjoyed the beautiful summer time of Yale.
+
+</p>
   </article>
+</div>
 
   
+    
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/physics/senior-thesis/" rel="permalink">Senior Thesis
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Just submitted my senior thesis to the physics department at Notre Dame yesterday.
+A milestone for my undergraduate physics research.
+I worked on the anisotr...</p>
+  </article>
+</div>
+
+  
+    
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/life/west-lafayette/" rel="permalink">West Lafayette Trip
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Visited friends in West Lafayette. Took this beautiful picture of the Purdue University’s main gate.
+
+</p>
+  </article>
+</div>
+
+  
+    
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/life/ski-trip/" rel="permalink">Breckenridge Ski Trip
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Went on a ski trip with some friends in Breckenridge ski resort, Colorado. Feeling high on the slopes!
+
+</p>
+  </article>
+</div>
+
+  
+    
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/life/adopted-Blake/" rel="permalink">My Cat
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Take a look at my lovely cat Xiaohei (小黑) I have adopted recently!
+
+</p>
+  </article>
+</div>
+
   
 </div>
 
+
+<nav class="pagination">
+  
+  <ul>
+    
+    
+      
+        <li><a href="/">Previous</a></li>
+      
+    
+
+    
+    
+      <li><a href="/">1</a></li>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+
+    
+      <li><a href="#" class="disabled current">2</a></li>
+    
+
+    
+    
+      <li><a href="#" class="disabled"><span aria-hidden="true">Next</span></a></li>
+    
+  </ul>
+</nav>
+
+
+
+  </div>
+</div>
     </div>
 
     
@@ -366,7 +567,7 @@ I am interested in how a collection of people interact with each other&mdash;mor
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2021 Lihao Yan. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2022 Lihao Yan. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
