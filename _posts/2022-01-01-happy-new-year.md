@@ -3,6 +3,7 @@ title: "Happy 2022!!!"
 categories:
   - life
 tags:
+
 # Available Tags: friends, pets, yale, ski, physics, philosophy, life
     - life
 header:
