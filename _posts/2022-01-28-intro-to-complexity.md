@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Complexity"
 categories:
-  - physics
+  - life
 tags:
 # Available Tags: friends, pets, yale, ski, physics, philosophy, life
     - physics
