@@ -1,5 +1,5 @@
 ---
-title: "WeThoughts Account"
+title: "WeThoughts"
 categories:
     - philosophy
 tags:
