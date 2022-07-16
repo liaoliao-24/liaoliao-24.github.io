@@ -5,6 +5,8 @@ main:
     url: /physics/
   - title: "Philosophy"
     url: /philosophy/
+  - title: "Society"
+    url: /society/
   - title: "Life"
     url: /life/
   # - title: "All Posts"
