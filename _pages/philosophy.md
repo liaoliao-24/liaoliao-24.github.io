@@ -1,6 +1,8 @@
 ---
 title: "Philosophy"
-layout: single
+layout: category
+taxonomy: philosophy
+entries_layout: grid
 #toc: true
 permalink: /philosophy/
 author_profile: true

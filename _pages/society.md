@@ -1,6 +1,8 @@
 ---
 title: "Society"
-layout: single
+layout: category
+taxonomy: society
+entries_layout: grid
 #toc: true
 permalink: /society/
 author_profile: true
