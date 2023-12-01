@@ -7,6 +7,6 @@ entries_layout: grid
 permalink: /physics/
 author_profile: true
 ---
-During my four years at Notre Dame, I have worked in multiple research groups spanning nuclear physics, applied math, and condensed matter physics. I am now pursuing a Ph.D. degree in theoretical condensed matter physics at Yale. You can read my [CV](/assets/LihaoYanCV.pdf) to learn more about my research.
+I am now pursuing a Ph.D. degree in theoretical neuroscience at Yale University.
 
 -----------
