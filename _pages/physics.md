@@ -7,6 +7,6 @@ entries_layout: grid
 permalink: /physics/
 author_profile: true
 ---
-I am now pursuing a Ph.D. degree in theoretical neuroscience at Yale University.
+I am now pursuing a physics Ph.D. degree working in the area of computational neuroscience at Yale University.
 
 -----------
