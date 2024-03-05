@@ -26,4 +26,5 @@ gallery:
     title: "小黑(Xiaohei)"
 ---
 A glimpse of Lihao's personal life
+The link for my expense split instance is: [my expense split tool instance](https://lihao-spliit.vercel.app/)
 {% include gallery%}
