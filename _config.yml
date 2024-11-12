@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Version 0.31" # site tagline that appears below site title in masthead
 name                     : "Lihao Yan"
 description              : "Lihao's treasure cave."
-url                      : "https://liaoliao-24.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yanlihao.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "liaoliao-24/liaoliao-24.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/teaser_pic.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -107,7 +107,7 @@ author:
   avatar           : "/assets/images/bio-photo2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "天命之谓性，率性之谓道，修道之谓教。"
   location         : "Beijing"
-  email            : "liao24y@gmail.com"
+  email            : "lihao.yan@yale.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -227,7 +227,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+    #- jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
 
