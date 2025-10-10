@@ -14,4 +14,8 @@ am interested in understanding behaviors of complex systems. In philosophy,
 I am interested in how a collection of people interact with each other&mdash;moral and political philosophy.
 I like reading and thinking.
 My favorite book is *The Analects* and *War and Peace*.
-My favorite philosopher is Confucius. I also like play bridge, traveling, and gaming. You can follow my WeChat public account *WeThoughts* to know more about me.
+My favorite philosopher is Confucius. I enjoy arts, traveling, and writing.
+You can follow my WeChat public account *WeThoughts* (Chinese blog) to know more about me.
+
+I care about social social impacts beyond academia.
+I satisfy my interest beyond academia by joining as one of the co-organizer of the [Kimball Smith Series](https://kimballsmithseries.yale.edu).
