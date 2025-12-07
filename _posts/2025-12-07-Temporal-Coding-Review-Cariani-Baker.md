@@ -6,7 +6,7 @@ tags:
 # Available Tags: friends, pets, yale, ski, physics, philosophy, life, society, computational-neuroscience
   - computational-neuroscience
 header:
-  #teaser: /assets/images/life
+  teaser: /assets/images/computational-neuroscience/temporal-coding-review-caraini-baker.png
 ---
 
 
