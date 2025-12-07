@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Complexity"
 categories:
-  - comp_neuro
+  - computational-neuroscience
 tags:
 
 # Available Tags: friends, pets, yale, ski, physics, philosophy, life, complexity
