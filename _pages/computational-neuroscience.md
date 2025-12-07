@@ -9,4 +9,6 @@ author_profile: true
 ---
 I am now pursuing a Ph.D. degree in computational neuroscience at Yale University, understanding the computational principles of neural systems.
 
+On this page, I collect my writings and notes related to computational neuroscience.
+
 -----------
