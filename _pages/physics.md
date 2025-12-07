@@ -1,12 +1,12 @@
 ---
-title: "Physics"
+title: "Computational Neuroscience"
 layout: category
-taxonomy: physics
+taxonomy: computational-neuroscience
 entries_layout: grid
 #toc: true
-permalink: /physics/
+permalink: /computational-neuroscience/
 author_profile: true
 ---
-I am now pursuing a physics Ph.D. degree working in the area of computational neuroscience at Yale University.
+I am now pursuing a Ph.D. degree in computational neuroscience at Yale University, understanding the computational principles of neural systems.
 
 -----------

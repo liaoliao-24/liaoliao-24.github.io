@@ -1,11 +1,11 @@
 ---
 title: "Senior Thesis"
 categories:
-  - physics
+  - computational-neuroscience
 tags:
   - physics
 header:
-  teaser: /assets/images/physics/phaseTypeI&II.png
+  teaser: /assets/images/computational-neuroscience/phaseTypeI&II.png
 ---
 
 Just submitted my senior thesis to the physics department at Notre Dame yesterday.

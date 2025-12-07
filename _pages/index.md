@@ -1,21 +1,22 @@
 ---
-
-layout: single # home # could use splash in the future
+layout: single
 permalink: / 
 author_profile: true
 title: Who Am I?
-#header:
-#    image: /assets/images/teaser_pic.jpg
 ---
-I am a Ph.D. student in theoretical neuroscience at
-Yale University.
-I received my B.S. degree double major in physics and philosophy from the University of Notre Dame in year 2021. In physics, I
-am interested in understanding behaviors of complex systems. In philosophy,
-I am interested in how a collection of people interact with each other&mdash;moral and political philosophy.
-I like reading and thinking.
-My favorite book is *The Analects* and *War and Peace*.
-My favorite philosopher is Confucius. I enjoy arts, traveling, and writing.
-You can follow my WeChat public account *WeThoughts* (Chinese blog) to know more about me.
 
-I care about social social impacts beyond academia.
-I satisfy my interest beyond academia by joining as one of the co-organizer of the [Kimball Smith Series](https://kimballsmithseries.yale.edu).
+I am a Ph.D. student in theoretical neuroscience at Yale University, where I explore how neural systems give rise to complex behavior.
+
+## Background
+
+I earned my B.S. from the University of Notre Dame in 2021 with a double major in physics and philosophy. My academic interests span both fields: in physics, I'm drawn to understanding emergent behaviors in complex systems; in philosophy, I focus on moral and political philosophy, particularly how individuals and societies interact.
+
+## What I Value
+
+Beyond research, I'm passionate about reading, thinking, writing, and exploring different cultures through travel and the arts. *The Analects* and *War and Peace* are among my favorite works, and Confucius's philosophy deeply influences my worldview.
+
+## Community Engagement
+
+I believe in creating meaningful social impact beyond academia. I contribute to this goal as a co-organizer of the [Kimball Smith Series](https://kimballsmithseries.yale.edu), an initiative fostering important conversations at Yale.
+
+You can also follow my Chinese WeChat public account, *WeThoughts*, for more insights into my thoughts and experiences.

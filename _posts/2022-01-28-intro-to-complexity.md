@@ -1,13 +1,13 @@
 ---
 title: "Introduction to Complexity"
 categories:
-  - physics
+  - comp_neuro
 tags:
 
-# Available Tags: friends, pets, yale, ski, physics, philosophy, life
-    - physics
+# Available Tags: friends, pets, yale, ski, physics, philosophy, life, complexity
+    - complexity
 header:
-  teaser: /assets/images/physics/scaling_in_city.png
+  teaser: /assets/images/computational-neuroscience/scaling_in_city.png
 ---
 
 I recently took the online course, *Introduction to Complexity* from the Santa Fe institute.

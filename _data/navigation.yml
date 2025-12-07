@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: index.html
-  - title: "Physics"
-    url: /physics/
+  - title: "Computational Neuroscience"
+    url: /computational-neuroscience/
   - title: "Philosophy"
     url: /philosophy/
   - title: "Society"

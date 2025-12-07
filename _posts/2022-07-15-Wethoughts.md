@@ -2,6 +2,7 @@
 title: "WeThoughts"
 categories:
     - philosophy
+    - society
 tags:
 # Available Tags: friends, pets, yale, ski, physics, philosophy, life
     - philosophy
