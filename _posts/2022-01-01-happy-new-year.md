@@ -10,6 +10,6 @@ header:
   teaser: /assets/images/life/2022new-year.jpg
 ---
 
-Happy 2022! Enjoy new year. 祝万事胜意。
+Happy 2022! Enjoy the new year. 祝万事胜意。
 
 ![2022 New Year](/assets/images/life/2022new-year.jpg)

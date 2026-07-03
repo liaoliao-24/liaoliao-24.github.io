@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/life/bears_at_yellow_stone.jpg
 ---
 
-We went to the Yellowstone National Park during the summer.
+We went to Yellowstone National Park during the summer.
 We were very lucky to see three bears together!
 
 ![Black Bears](/assets/images/life/bears_at_yellow_stone.jpg)
