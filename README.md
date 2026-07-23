@@ -39,7 +39,7 @@ git rm -r --cached _site
 | `assets/images/` | Images (prefer a folder per category) |
 | `_config.yml` | Site-wide settings (title, theme, URL, etc.) |
 
-Categories used for tabs: `computational-neuroscience`, `society`, `life`.
+Categories used for tabs: `theoretical-neuroscience`, `society`, `life`.
 
 ## Add a post
 
@@ -62,7 +62,7 @@ Short intro paragraph.
 ![Alt text](/assets/images/life/your-teaser.png)
 ```
 
-3. Filename date controls sort order; `categories` must match a tab taxonomy (`life`, `society`, or `computational-neuroscience`) for the post to appear on that page.
+3. Filename date controls sort order; `categories` must match a tab taxonomy (`life`, `society`, or `theoretical-neuroscience`) for the post to appear on that page.
 4. Preview locally, then commit and push (see below).
 
 ## Edit or add a page

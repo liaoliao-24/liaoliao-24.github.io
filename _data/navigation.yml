@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: index.html
-  - title: "Computational Neuroscience"
-    url: /computational-neuroscience/
+  - title: "Theoretical Neuroscience"
+    url: /theoretical-neuroscience/
   - title: "Society"
     url: /society/
   - title: "Life"

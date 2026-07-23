@@ -1,12 +1,12 @@
 ---
 title: "Temporal Coding Review Article by Cariani and Baker"
 categories:
-  - computational-neuroscience
+  - theoretical-neuroscience
 tags:
-# Available Tags: friends, pets, yale, ski, physics, philosophy, life, society, computational-neuroscience
-  - computational-neuroscience
+# Available Tags: friends, pets, yale, ski, physics, philosophy, life, society, theoretical-neuroscience
+  - theoretical-neuroscience
 header:
-  teaser: /assets/images/computational-neuroscience/temporal-coding-review-caraini-baker.png
+  teaser: /assets/images/theoretical-neuroscience/temporal-coding-review-caraini-baker.png
 ---
 
 
