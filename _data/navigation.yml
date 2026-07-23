@@ -3,8 +3,6 @@ main:
     url: index.html
   - title: "Computational Neuroscience"
     url: /computational-neuroscience/
-  - title: "Philosophy"
-    url: /philosophy/
   - title: "Society"
     url: /society/
   - title: "Life"

@@ -7,6 +7,8 @@ entries_layout: grid
 permalink: /society/
 author_profile: true
 ---
+This is where I share thoughts on philosophy and society.
+
 It is an enormous privilege to being a researcher in academia. I believe researchers should also contribute to creating meaningful social impact beyond academia.
 As a co-organizer of the [Kimball Smith Series](https://kimballsmithseries.yale.edu), I help foster important conversations at Yale University that engage both the academic community and the broader public on critical societal issues.
 
