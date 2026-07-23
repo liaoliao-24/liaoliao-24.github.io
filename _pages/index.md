@@ -5,7 +5,8 @@ author_profile: true
 title: Who Am I?
 ---
 
-I am a Ph.D. student in theoretical neuroscience at Yale University, where I explore how neural systems give rise to complex behavior.
+I am a Ph.D. student in physics working in theoretical neuroscience at Yale University, where I seek to understand cognition
+through population cortical dynamics.
 
 ## Background
 
@@ -17,6 +18,6 @@ Beyond research, I'm passionate about reading, thinking, writing, and exploring 
 
 ## Community Engagement
 
-I believe in creating meaningful social impact beyond academia. I contribute to this goal as a co-organizer of the [Kimball Smith Series](https://kimballsmithseries.yale.edu), an initiative fostering important conversations at Yale.
+I am committed to broader social impact beyond academic research. I am a co-organizer of the [Kimball Smith Series](https://kimballsmithseries.yale.edu), an initiative fostering interdisciplinary conversations between scientists and policymakers at Yale.
 
-You can also follow my Chinese WeChat public account, *WeThoughts*, for more insights into my thoughts and experiences.
+You can also follow my Chinese WeChat public account, *WeThoughts*, where I share more of my thoughts and experiences.

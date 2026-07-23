@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/philosophy/wethoughts-logo.png
 ---
 
-Many of my thoughts and reflections are posted on my Chinese personal
-WeChat platform account *WeThoughts*. Feel free to check it out.
+Many of my thoughts and reflections are posted on my Chinese
+WeChat public account *WeThoughts*. Feel free to check it out.
 
 ![WeThoughts](/assets/images/philosophy/wethoughts-logo.png)

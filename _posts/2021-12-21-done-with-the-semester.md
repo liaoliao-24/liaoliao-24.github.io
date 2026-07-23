@@ -11,6 +11,6 @@ header:
 ---
 
 Just finished my first semester at Yale. I took four physics courses,
-which is a lot! However, I did learn a lot physics this semester and I enjoyed my courses.
+which is a lot! However, I learned a lot of physics this semester and I enjoyed my courses.
 
 ![night sky at yale](/assets/images/pets/life/night_sky_at_yale.jpg)

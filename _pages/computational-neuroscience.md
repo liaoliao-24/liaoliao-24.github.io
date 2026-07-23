@@ -7,7 +7,7 @@ entries_layout: grid
 permalink: /computational-neuroscience/
 author_profile: true
 ---
-I am now pursuing a Ph.D. degree in computational neuroscience at Yale University, understanding the computational principles of neural systems.
+I am pursuing a Ph.D. degree in physics at Yale University to understand the computational principles of the brain.
 
 On this page, I collect my writings and notes related to computational neuroscience.
 

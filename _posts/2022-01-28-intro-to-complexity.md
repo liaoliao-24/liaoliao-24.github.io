@@ -10,5 +10,5 @@ header:
   teaser: /assets/images/computational-neuroscience/Scaling_in_city.png
 ---
 
-I recently took the online course, *Introduction to Complexity* from the Santa Fe institute.
+I recently took the online course *Introduction to Complexity* from the Santa Fe Institute.
 Here are my study [notes](/assets/Intro_to_complexity.pdf).
