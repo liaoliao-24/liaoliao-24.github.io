@@ -17,11 +17,17 @@ var store = [{
         "url": "/life/west-lafayette/",
         "teaser": "/assets/images/purdueU.jpg"
       },{
+        "title": "Theses on Feuerbach",
+        "excerpt":"An inspiring quote for how I think about philosophy and its relation to society.     ","categories": ["society"],
+        "tags": ["philosophy"],
+        "url": "/society/theses-on-feuerbach/",
+        "teaser": "/assets/images/thesisOnFeuerbach.jpg"
+      },{
         "title": "Senior Thesis",
-        "excerpt":"Just submitted my senior thesis to the physics department at Notre Dame yesterday. A milestone for my undergraduate physics research. I worked on the anisotropic interaction in mesoscopic superconducting samples. You can find my senior thesis here.  ","categories": ["physics"],
+        "excerpt":"Just submitted my senior thesis to the physics department at Notre Dame yesterday. A milestone for my undergraduate physics research. I worked on the anisotropic interaction in mesoscopic superconducting samples. You can find my senior thesis here.  ","categories": ["computational-neuroscience"],
         "tags": ["physics"],
-        "url": "/physics/senior-thesis/",
-        "teaser": "/assets/images/physics/phaseTypeI&II.png"
+        "url": "/computational-neuroscience/senior-thesis/",
+        "teaser": "/assets/images/computational-neuroscience/phaseTypeI&II.png"
       },{
         "title": "First Photo at Yale",
         "excerpt":"This is one of the first photos I took at Yale. I walked around Yale’s campus and enjoyed the beautiful summer time of Yale.     ","categories": ["life"],
@@ -54,8 +60,38 @@ var store = [{
         "teaser": "/assets/images/life/2022new-year.jpg"
       },{
         "title": "Introduction to Complexity",
-        "excerpt":"I recently took the online course, Introduction to Complexity from the Santa Fe institute. Here are my study notes.  ","categories": ["physics"],
-        "tags": ["physics"],
-        "url": "/physics/intro-to-complexity/",
-        "teaser": "/assets/images/physics/scaling_in_city.png"
+        "excerpt":"I recently took the online course, Introduction to Complexity from the Santa Fe institute. Here are my study notes.  ","categories": ["computational-neuroscience"],
+        "tags": ["complexity"],
+        "url": "/computational-neuroscience/intro-to-complexity/",
+        "teaser": "/assets/images/computational-neuroscience/Scaling_in_city.png"
+      },{
+        "title": "Bears at Yellowstone National Park",
+        "excerpt":"We went to the Yellowstone National Park during the summer. We were very lucky to see three bears together!     ","categories": ["life"],
+        "tags": ["life"],
+        "url": "/life/bears-yellowstone/",
+        "teaser": "/assets/images/life/bears_at_yellow_stone.jpg"
+      },{
+        "title": "WeThoughts",
+        "excerpt":"Many of my thoughts and reflections are posted on my Chinese personal WeChat platform account WeThoughts. Feel free to check it out.     ","categories": ["society"],
+        "tags": ["philosophy"],
+        "url": "/society/Wethoughts/",
+        "teaser": "/assets/images/philosophy/wethoughts-logo.png"
+      },{
+        "title": "Split Tool",
+        "excerpt":"To make the splitting activity between friends simple, we use people made tool spliit. To secure my data, I deploy my own instance using vercel: my expense split tool instance  ","categories": ["life"],
+        "tags": [],
+        "url": "/life/spliit/",
+        "teaser": "/assets/images/teaser_pic.jpg"
+      },{
+        "title": "Astonishing Lights in Sagrada Familia",
+        "excerpt":"I visited Barcelona over the Thanksgiving break and had the chance to see the Sagrada Familia. The way the light filters through the stained glass windows is absolutely breathtaking.     ","categories": ["life"],
+        "tags": ["life"],
+        "url": "/life/Sagrada-Familia/",
+        "teaser": "/assets/images/life/sagrada-familia.jpg"
+      },{
+        "title": "Temporal Coding Review Article by Cariani and Baker",
+        "excerpt":"In this review of temporal coding in sensory systems, Peter Cariani and Janet M. Baker assemble evidence that timing-based codes carry rich information. Historically, temporal coding has been framed from two angles: information-theoretic work that asks how much capacity a code affords, and function-based work that asks how signals map...","categories": ["computational-neuroscience"],
+        "tags": ["computational-neuroscience"],
+        "url": "/computational-neuroscience/Temporal-Coding-Review-Cariani-Baker/",
+        "teaser": "/assets/images/computational-neuroscience/temporal-coding-review-caraini-baker.png"
       }]
