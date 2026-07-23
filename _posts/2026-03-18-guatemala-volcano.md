@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/life/guatemala-fuego-eruption.png
 ---
 
-In March 2026 I hiked Acatenango for a night overlooking Volcán de Fuego. The volcano erupted with lightning over the horizon — one of the most surreal nights I've ever spent outdoors.
+In March 2026 I hiked Acatenango for a night overlooking Volcán de Fuego. The volcano erupted with thunder and lightning, one of the most surreal nights I've ever spent outdoors.
 
 ![Volcán de Fuego erupting at night](/assets/images/life/guatemala-fuego-eruption.png)
 
